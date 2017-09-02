@@ -57,14 +57,37 @@ h4 {
   text-align: center;
 }
 
-a {
+.a {
   font-size: 14px;
   color: black;
 }
 
-p {
+.portfolio {
   font-size: 12px;
+}
+
+.card {
+  margin: 30px;
+  padding: 20px;
 }
 
 
 /*portfolio ends*/
+
+
+/*about*/
+
+#about {
+  background-color: rgb(172, 67, 67)
+}
+
+.clr {
+  color: white;
+}
+
+.row {
+  padding: 30px;
+}
+
+
+/*about ends*/
