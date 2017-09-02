@@ -40,3 +40,31 @@ h3 {
 
 
 /*header ends*/
+
+
+/*portfolio*/
+
+.portfolio {
+  color: black;
+}
+
+h2 {
+  padding: 30px;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+a {
+  font-size: 14px;
+  color: black;
+}
+
+p {
+  font-size: 12px;
+}
+
+
+/*portfolio ends*/
